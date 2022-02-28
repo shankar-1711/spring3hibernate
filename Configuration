@@ -34,3 +34,4 @@ upload_region          = us-east-1
 source_file            = *.war
 recipients             = abhishek.dubey@opstree.com
 notification_method    = slack
+test_conf              = "test_value"
